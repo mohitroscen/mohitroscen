@@ -7,14 +7,10 @@ I blend software and hardware to build smart, scalable systems. From building AI
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,arduino,raspberrypi,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,arduino,github,vscode" />
 </p>
 
 ---
-
-## 📄 Resume
-
-📥 [Click to Download Resume (PDF)](YOUR_RESUME_LINK)
 
 ---
 
@@ -22,9 +18,6 @@ I blend software and hardware to build smart, scalable systems. From building AI
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitroscen&show_icons=true&theme=tokyonight)
 
-### GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitroscen&theme=tokyonight)
 
 ### Most Used Languages
 
@@ -32,68 +25,10 @@ I blend software and hardware to build smart, scalable systems. From building AI
 
 ---
 
-## 🗺️ Profile Summary Cards
-
-### Profile Details
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitroscen&theme=tokyonight)
-
-### Productive Time
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitroscen&theme=tokyonight&utcOffset=8)
-
----
-
-## 🌐 Visitor Count
-
-### Visitor Count
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=mohitroscenn&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 ### Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohitroscenn&label=Profile%20Views&color=blueviolet&style=flat-square)
-
----
-
-## 🕹️ Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohitroscenn&theme=tokyo-night)
-
----
-
-## 🧠 Custom Skill Icons via SkillIcons.dev
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,arduino,raspberrypi,figma,git,github,vscode" />
-</p>
-
----
-
-## 📰 Dynamic Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 📊 GitHub Metrics Dashboard
-
-![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=mohitroscen&show_icons=true&theme=tokyonight)
-
----
-
-## 🎮 Activity Graph (via WakaTime or GitHub Actions)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohitroscenn&theme=tokyo-night)
-
----
-
-## 🎉 Fun Zone (GIFs)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" />
-</p>
 
 ---
 
