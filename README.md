@@ -1,42 +1,6 @@
-# 💻 Mohit Roscen – Ultimate GitHub Profile README
+# Hi, I'm Mohit! 👋
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#0f62fe">Mohit Roscen</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | 🤖 Embedded Systems Hacker | 🧠 Co-Founder @ Neuron Tech</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitroscenn&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/mohitroscenn?label=Followers&style=flat-square&color=success"/>
-  <img src="https://img.shields.io/github/stars/mohitroscenn?label=Stars&style=flat-square&color=yellow"/>
-  <img src="https://img.shields.io/badge/Dark--Mode-🌓%20Enabled-blue?style=flat-square"/>
-</p>
-
----
-
-### 💻 Terminal-style Intro
-
-```bash
-> whoami
-💡 Mohit Roscen
-
-> role
-🛠️ Web Developer | 🔌 Embedded Systems Engineer | 🚀 Startup Tech Lead
-
-> company
-🏢 Co-Founder & Lead Developer @ Neuron Tech Pvt Ltd
-
-> location
-📍 Puducherry, India
-
-> contact
-📧 mohityt175@gmail.com | ☎️ +91 93421 57391
-
-> status
-📚 B.Tech (Pre-Final Year) | 📂 Freelance: Available
-
-> hobbies
-🎮 Gaming | 📺 Anime | 🔍 Tech Research
-## 🧠 About Me
-Hi, I'm Mohit! I blend software and hardware to build smart, scalable systems. From building AI-powered drones to IoT-integrated traffic systems, I love solving real-world problems with code and circuits.
+I blend software and hardware to build smart, scalable systems. From building AI-powered drones to IoT-integrated traffic systems, I love solving real-world problems with code and circuits.
 
 ---
 
