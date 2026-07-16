@@ -1,3 +1,14 @@
+<table>
+<tr>
+
+<td width="45%">
+
+<img src="assets/profile-terminal.png" width="100%">
+
+</td>
+
+<td width="55%">
+
 ```text
 ███╗   ███╗ ██████╗ ██╗  ██╗██╗████████╗
 ████╗ ████║██╔═══██╗██║  ██║██║╚══██╔══╝
@@ -35,9 +46,14 @@ Grid.GitHub    : mohitroscen
 
 GitHub Stats
 
-Repos          : XX
-Stars          : XX
-Followers      : XX
-Commits        : XX
+Repos          : {repos}
+Stars          : {stars}
+Followers      : {followers}
+Commits        : {commits}
 Lines of Code  : XXXXX+
 ```
+
+</td>
+
+</tr>
+</table>
