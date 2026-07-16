@@ -1,4 +1,3 @@
-
 ███╗   ███╗ ██████╗ ██╗  ██╗██╗████████╗
 ████╗ ████║██╔═══██╗██║  ██║██║╚══██╔══╝
 ██╔████╔██║██║   ██║███████║██║   ██║
@@ -6,28 +5,33 @@
 ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║   ██║
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝
 
-Mohit@Neural-grid
+Mohit@Neural-Grid:~$
 ────────────────────────────────────────────
-• Subject : Mohit Roscen
-• Role    : Developer
-• Origin  : Puducherry, India
-• Status  : Analysing • Learning • Building
 
-Neural.Core      : Python, JavaScript, C++
-Neural.AI        : Hugging Face
-Neural.Frontend  : HTML, CSS, Bootstrap, Markdown
-Neural.Backend   : Streamlit
-Neural.Design    : Figma
-Neural.Deploy    : Vercel
+Subject      : Mohit Roscen
+Role         : Developer
+Origin       : Puducherry, India
+Status       : Analysing • Learning • Building
+
 ────────────────────────────────────────────
-Contact
 
-Grid.Mail      : info@mohitroscen.com
-Grid.Portfolio : https://mohitroscen.com
-Grid.LinkedIn  : https://linkedin.com/in/mohit-roscen-389367293
-Grid.GitHub    : mohitroscen
+Languages    : Python • JavaScript • C++
+AI           : Hugging Face
+Frontend     : HTML • CSS • Bootstrap
+Backend      : Streamlit
+Design       : Figma
+Deployment   : Vercel
 
-Repos      : XX
-Stars      : XX
-Followers  : XX
-Commits    : XX
+────────────────────────────────────────────
+
+Email        : info@mohitroscen.com
+Portfolio    : https://mohitroscen.com
+LinkedIn     : linkedin.com/in/mohit-roscen-389367293
+GitHub       : github.com/mohitroscen
+
+────────────────────────────────────────────
+
+Repos        : XX
+Stars        : XX
+Followers    : XX
+Commits      : XX
